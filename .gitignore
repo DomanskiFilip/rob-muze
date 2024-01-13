@@ -3,4 +3,4 @@ notes.txt/
 do_zrobienia.txt/
 media/
 .DS_Store
-account/_pycache_/
+__pycache__/
