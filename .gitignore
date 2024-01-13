@@ -7,6 +7,12 @@ media/
 ### Python ###
 # Byte-compiled / optimized / DLL files
 __pycache__/
+account/__pycache__/
+ankiety/__pycache__/
+collabs/__pycache__/
+core/__pycache__/
+rob_muze/__pycache__/
+samples/__pycache__/
 *.py[cod]
 *$py.class
 
