@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-13 11:07+0000\n"
+"POT-Creation-Date: 2024-01-13 13:32+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,31 +17,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: .\core\forms.py:82
+#: .\core\forms.py:21 .\core\forms.py:93 .\core\templates\core\signup.html:22
+msgid "Nazwa Użytkownika"
+msgstr "Username"
+
+#: .\core\forms.py:22 .\core\forms.py:94
+msgid "Hasło"
+msgstr "Password"
+
+#: .\core\forms.py:87
 msgid "Udowodnij ze nie jestes robotem, zarejestruj sie potem."
 msgstr "You must prove you are not a robot."
 
-#: .\core\forms.py:90
+#: .\core\forms.py:95
+msgid "Potwierdź hasło"
+msgstr "Confirm password"
+
+#: .\core\forms.py:96
+msgid "Adres email"
+msgstr "Email address"
+
+#: .\core\forms.py:98
+msgid "Wybierz"
+msgstr "Choose"
+
+#: .\core\forms.py:99
+msgid "Wokal/Inst"
+msgstr "Vocal/Inst"
+
+#: .\core\forms.py:100
+msgid "Produkcja"
+msgstr "Production"
+
+#: .\core\forms.py:101
+msgid "Zadnej pracy sie nie boje"
+msgstr ""
+
+#: .\core\forms.py:109
 msgid "Hasla do siebie nie pasuja."
 msgstr "Passwords dont match."
 
-#: .\core\templates\core\base.html:22
-msgid "rób muze"
-msgstr "rob muze"
+#: .\core\templates\core\base.html:30 .\core\templates\core\index.html:33
+msgid "Sample"
+msgstr "Samples"
 
-#: .\core\templates\core\index.html:11
-msgid "Ładowanie..."
-msgstr "Loading..."
+#: .\core\templates\core\base.html:31 .\core\templates\core\index.html:47
+msgid "Kolaboracje"
+msgstr "Colaborations"
 
-#: .\core\templates\core\index.html:20 .\core\templates\core\index.html:28
-msgid "proba tlumaczenia"
-msgstr "translation test"
+#: .\core\templates\core\base.html:39
+msgid "Ankiety"
+msgstr ""
 
-#: .\core\templates\core\signup.html:22
-msgid "Nazwa Użytkownika"
-msgstr "Username"
+#: .\core\templates\core\base.html:42
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: .\core\templates\core\base.html:43
+msgid "Wyloguj"
+msgstr "Log out"
+
+#: .\core\templates\core\base.html:46
+msgid "Rejestracja"
+msgstr "Sign in"
+
+#: .\core\templates\core\base.html:47
+msgid "Logowanie"
+msgstr "Log in"
+
+#: .\core\templates\core\base.html:59
+msgid "Pobrań"
+msgstr "Downloads"
+
+#: .\core\templates\core\index.html:6
+msgid "Glowna"
+msgstr "Home page"
+
+#: .\core\templates\core\index.html:34
+msgid "Zbior unikatowych sampli i nagran"
+msgstr ""
+
+#: .\core\templates\core\index.html:34
+msgid "Materialy do produkcji muzycznej"
+msgstr ""
+
+#: .\core\templates\core\index.html:35
+msgid "Dostepne sample"
+msgstr ""
+
+#: .\core\templates\core\index.html:48
+msgid "Dograj sie do istniejacego nagrania"
+msgstr ""
+
+#: .\core\templates\core\index.html:48
+msgid "albo przeslij swoj autorski pomysl"
+msgstr ""
+
+#: .\core\templates\core\index.html:49
+msgid "Aktywne kolaboracje"
+msgstr ""
+
+#: .\core\templates\core\index.html:61
+msgid "Glosowania"
+msgstr ""
+
+#: .\core\templates\core\index.html:63
+msgid "Otwarte glosowania"
+msgstr ""
+
+#: .\core\templates\core\index.html:169
+msgid "Przeslij swoje nagranie"
+msgstr ""
 
 #: .\core\templates\core\signup.html:62
 msgid ""
 "Musisz zgodzic sie na warunki uzywania serwisu zeby zarejestrowac konto."
 msgstr "You must agree to terms of service to register an account"
+
+#~ msgid "rób muze"
+#~ msgstr "rob muze"
+
+#~ msgid "Ładowanie..."
+#~ msgstr "Loading..."
+
+#~ msgid "proba tlumaczenia"
+#~ msgstr "translation test"
