@@ -13,6 +13,11 @@ collabs/__pycache__/
 core/__pycache__/
 rob_muze/__pycache__/
 samples/__pycache__/
+*/__pycache__/
+*/__pycache__/*
+**/__pycache__/
+**/__pycache__/*
+**/__pycache__/**
 *.py[cod]
 *$py.class
 
