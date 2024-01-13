@@ -2,3 +2,4 @@ node_modules/
 notes.txt/
 do_zrobienia.txt/
 media/
+.DS_Store
