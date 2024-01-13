@@ -4,3 +4,4 @@ do_zrobienia.txt/
 media/
 .DS_Store
 /pycache/*
+/__pycache_/*
