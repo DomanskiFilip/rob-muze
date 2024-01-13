@@ -3,7 +3,6 @@ notes.txt/
 do_zrobienia.txt/
 media/
 .DS_Store
-**/pycache/**
-**/__pycache_/**
 **.py
 **.pyc
+/__pycache/*
